@@ -1,2 +1,2 @@
 # git-localconfig-repo
-Local repository to test MS and how to connect it to config sever. The limits-services files will be added to this repo in every environment
+This is Manuel's Local repository to test MS configuration files and how to connect them to config sever. The limits-services files will be added to this repo in every environment (Dev, Qa, stage, Prod).
